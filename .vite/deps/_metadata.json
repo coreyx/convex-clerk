@@ -1,0 +1,67 @@
+{
+  "hash": "3b6c0510",
+  "configHash": "a3ecd0f8",
+  "lockfileHash": "6e1a20dd",
+  "browserHash": "0c20a0f3",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "bfb5cc43",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "83446fdf",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "dd0999c9",
+      "needsInterop": true
+    },
+    "@clerk/clerk-react": {
+      "src": "../../node_modules/@clerk/clerk-react/dist/index.mjs",
+      "file": "@clerk_clerk-react.js",
+      "fileHash": "a1c77954",
+      "needsInterop": false
+    },
+    "convex/react-clerk": {
+      "src": "../../node_modules/convex/dist/esm/react-clerk/index.js",
+      "file": "convex_react-clerk.js",
+      "fileHash": "98a12705",
+      "needsInterop": false
+    },
+    "convex/react": {
+      "src": "../../node_modules/convex/dist/esm/react/index.js",
+      "file": "convex_react.js",
+      "fileHash": "e726dd3c",
+      "needsInterop": false
+    },
+    "convex/server": {
+      "src": "../../node_modules/convex/dist/esm/server/index.js",
+      "file": "convex_server.js",
+      "fileHash": "27f96d51",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-FYGYNQUM": {
+      "file": "chunk-FYGYNQUM.js"
+    },
+    "chunk-KXAGFXRM": {
+      "file": "chunk-KXAGFXRM.js"
+    },
+    "chunk-32EALFBN": {
+      "file": "chunk-32EALFBN.js"
+    },
+    "chunk-MYQHPQ4A": {
+      "file": "chunk-MYQHPQ4A.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
